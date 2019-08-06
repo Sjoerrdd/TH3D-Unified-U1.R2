@@ -1,8 +1,8 @@
 /**
 * ************** How to use this firmware - READ THIS, yes actually read this. *********************************
-*
-* This is for beta machine testing only. Enable the beta machine below and set the other options in Configuration.h
-*
+
+  This is for beta machine testing only. Enable the beta machine below and set the other options in Configuration.h
+
 */
 
 #ifndef CONFIGURATION_BETA_H
